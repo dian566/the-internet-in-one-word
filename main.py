@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """Entry for make.fun: The Internet in One Word.
 
-One word for the whole internet: "Doomscrolling" — the endless scroll
-through bad news, memes and everything in between. Funny because everyone
-does it, fitting because it is what the internet is for, surprising
-because the word itself is young but instantly understood.
+One word for the whole internet: "Shitposting" — the dumb, joyful
+shitpost that started as a joke and became the internet's native art
+form. Funny because everyone has done it, fitting because the whole
+internet runs on posts nobody asked for, surprising because the
+word is profane yet the most honest description of life online.
 """
 
 from os import makedirs
 
-ENTRY = "Doomscrolling"
+ENTRY = "Shitposting"
 
 
 def write_entry() -> None:

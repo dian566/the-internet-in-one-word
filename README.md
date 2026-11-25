@@ -8,9 +8,9 @@ One-word entry for make.fun's "The Internet in One Word" bounty ($10 in USDC, to
 
 ## Entry
 
-> Doomscrolling
+> Shitposting
 
-(13 characters, one word, limit 30.)
+(11 characters, one word, limit 30.)
 
 ## Run it
 
