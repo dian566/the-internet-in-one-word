@@ -8,9 +8,11 @@ One-word entry for make.fun's "The Internet in One Word" bounty ($10 in USDC, to
 
 ## Entry
 
-> Shitposting
+> Outrage
 
-(11 characters, one word, limit 30.)
+(7 characters, one word, limit 30.)
+
+Why this word: every feed, every thread, every trending tab runs on people being furious about something, loudly, in public, forever. Outrage is the one thing every corner of the internet shares — it names the fuel, not the vehicle. Short, instantly readable, and it lands before the reader has time to think.
 
 ## Run it
 
